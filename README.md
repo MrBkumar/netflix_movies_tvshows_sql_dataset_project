@@ -1,4 +1,4 @@
-# netflix_movies_tvshows_sql_dataset_project
+# Netflix Movies TV Shows SQL Dataset Project
 
 1. Question: What is the total number of content items available on Netflix?:
 
